@@ -1,45 +1,62 @@
-# Apollo Data Mining & Contact Quality Analysis
+# 📊 Business Contact Data Mining & Data Quality Analysis
 
-## Project goal
-This project turns Apollo.io contact exports into a small, portfolio-ready data analytics project.
+### 🚀 Live Dashboard
+👉 https://apollo-data-mining-dashboard-wdgcqgpltzuom2msvzsi5n.streamlit.app/
 
-### What this demonstrates
-- Data collection and export
-- CSV data cleaning
-- Data-quality validation
-- Email-status analysis
-- Company and job-title analysis
-- Basic visualization
-- Streamlit dashboarding
+### 💻 GitHub Repository
+👉 https://github.com/pradeepreddythummala/apollo-data-mining-dashboard
 
-## Dataset used for this analysis
-The internship export contained:
-- **25 contacts**
-- **19 Verified**
-- **4 Unavailable**
-- **2 Extrapolated**
-- Location: **Saratoga, California**
-- Industry in the export: **Real Estate**
+---
 
-Verified-contact rate: **76.0%**
+## 📌 Project Overview
 
-## Important privacy note
-Do **not** upload real Apollo contact names, email addresses, phone numbers, or other personal/business contact data to a public GitHub repository unless you have explicit authorization.
+This project demonstrates a practical **business contact data mining and data quality analysis workflow** using Apollo.io.
 
-The included `sample_anonymized_contacts.csv` removes direct personal identifiers and is intended for a portfolio/demo repository.
+The project processes exported contact data using **Python and Pandas**, analyzes email quality and contact information, and presents the results through an interactive **Streamlit dashboard**.
 
-## How to run the Python analysis
-1. Install dependencies:
-   `pip install -r requirements.txt`
-2. Put your authorized Apollo CSV in this folder and name it `apollo_contacts.csv`.
-3. Run:
-   `python apollo_data_mining_analysis.py`
+> **Privacy Note:** Real Apollo contact data is not included in this public repository. A sample/anonymized CSV is used for demonstration.
 
-## How to run the dashboard
-`python -m streamlit run dashboard.py`
+---
 
-## Possible project title for CV/GitHub
-**Business Contact Data Mining & Data Quality Analysis using Apollo.io, Python and Streamlit**
+## 🎯 Objectives
 
-## Skills demonstrated
-Python, Pandas, CSV processing, data cleaning, data validation, exploratory analysis, visualization, Streamlit.
+- Collect and organize business contact data based on assigned search criteria.
+- Analyze contact and email-status information.
+- Measure data quality and completeness.
+- Identify patterns in companies, job titles, seniority, locations, and industries.
+- Build an interactive dashboard for data exploration.
+- Create a reusable data-analysis workflow.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+- CSV / Data Processing
+- Apollo.io
+- Git
+- GitHub
+
+---
+
+## 🔄 Project Workflow
+
+text
+Apollo.io
+     ↓
+Business Contact Data Export
+     ↓
+CSV Dataset
+     ↓
+Python + Pandas
+     ↓
+Data Cleaning & Quality Analysis
+     ↓
+Data Summaries & Visualizations
+     ↓
+Streamlit Dashboard
+     ↓
+Insights & Filtered Data Export
