@@ -3,9 +3,6 @@
 ### 🚀 Live Dashboard
 👉 https://apollo-data-mining-dashboard-wdgcqgpltzuom2msvzsi5n.streamlit.app/
 
-### 💻 GitHub Repository
-👉 https://github.com/pradeepreddythummala/apollo-data-mining-dashboard
-
 ---
 
 ## 📌 Project Overview
