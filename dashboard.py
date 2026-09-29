@@ -230,7 +230,7 @@ if file:
     # KEY METRICS
     # ========================================================
 
-    st.subheader("📌 Key Metrics")
+    st.subheader(" Key Metrics")
 
     c1, c2, c3, c4 = st.columns(4)
 
